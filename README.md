@@ -149,6 +149,8 @@ text('My name is' + name, 10, 30)
 **What happens and why? Why isn’t there a space between the word ‘name’ and your
 name? Can you add one?**
 
+the ' needs to be spaced out from name is' to name is '
+
 Add this line to the top of your sketch:
 
 ```js
